@@ -47,28 +47,6 @@ Strong semantic preservation with clear stylistic differentiation across 4/5 sty
 
 ---
 
-## 📁 Project Structure
-
-Text_Style_Transfer_Code/
-│
-├── data/
-│ └── processed_data/
-│
-├── scripts/
-│ ├── train.py
-│ ├── evaluate.py
-│ └── inference.py
-│
-├── results/
-├── output/
-├── log/
-│
-├── README.md
-└── .gitattributes
-
-# ✍️ Inference
-python scripts/inference.py
-
 ### Example:
 ### Input:
 convert to professional: I am good. How are you?
