@@ -1,0 +1,9 @@
+11/29/2025 22:39:16 - INFO - __main__ - Loading model and tokenizer from models/flan_t5_base_style_transfer
+11/29/2025 22:39:30 - INFO - __main__ - Using device: cpu
+11/29/2025 22:39:30 - INFO - __main__ - Loading test data from data/processed_data/test.jsonl
+11/29/2025 22:39:30 - INFO - __main__ - Evaluating on 2500 examples...
+11/29/2025 23:58:59 - INFO - __main__ - Computing ROUGE and BLEU...
+11/29/2025 23:58:59 - INFO - absl - Using default tokenizer.
+11/29/2025 23:59:03 - INFO - __main__ - Saved metrics to results/eval_metrics.txt
+11/29/2025 23:59:03 - INFO - __main__ - Generating metrics bar plot...
+11/29/2025 23:59:04 - INFO - __main__ - Saved metrics plot to results/eval_metrics.png

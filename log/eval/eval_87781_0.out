@@ -1,0 +1,9 @@
+transformers: 4.57.1 python: /home/svdighe/miniconda3/envs/style_env/bin/python
+Evaluation Metrics:
+
+ROUGE-1: 0.7358
+ROUGE-2: 0.5923
+ROUGE-L: 0.7247
+ROUGE-Lsum: 0.7244
+BLEU: 0.5376
+Evaluation completed with exit code: 0

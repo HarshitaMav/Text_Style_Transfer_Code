@@ -1,0 +1,24 @@
+HOST: OG-NODE-10-5-229-191
+PWD:  /home/svdighe/text_style_transfer
+transformers: 4.57.1 python: /home/svdighe/miniconda3/envs/style_env/bin/python
+{'loss': 1.5332, 'grad_norm': 1.0638086795806885, 'learning_rate': 4.603559870550162e-05, 'epoch': 0.24}
+{'loss': 1.2521, 'grad_norm': 1.422419548034668, 'learning_rate': 4.199029126213592e-05, 'epoch': 0.49}
+{'loss': 1.174, 'grad_norm': 1.0420985221862793, 'learning_rate': 3.794498381877023e-05, 'epoch': 0.73}
+{'loss': 1.1688, 'grad_norm': 1.0017579793930054, 'learning_rate': 3.389967637540453e-05, 'epoch': 0.97}
+{'loss': 1.1135, 'grad_norm': 1.112144112586975, 'learning_rate': 2.9854368932038835e-05, 'epoch': 1.21}
+{'loss': 1.0921, 'grad_norm': 1.2579585313796997, 'learning_rate': 2.580906148867314e-05, 'epoch': 1.46}
+{'loss': 1.0788, 'grad_norm': 1.2726216316223145, 'learning_rate': 2.1763754045307444e-05, 'epoch': 1.7}
+{'loss': 1.0565, 'grad_norm': 1.1102818250656128, 'learning_rate': 1.771844660194175e-05, 'epoch': 1.94}
+{'loss': 1.0353, 'grad_norm': 0.8881153464317322, 'learning_rate': 1.3673139158576053e-05, 'epoch': 2.18}
+{'loss': 1.0237, 'grad_norm': 0.96170973777771, 'learning_rate': 9.627831715210356e-06, 'epoch': 2.43}
+{'loss': 1.05, 'grad_norm': 0.9950721263885498, 'learning_rate': 5.58252427184466e-06, 'epoch': 2.67}
+{'loss': 1.0321, 'grad_norm': 1.0648112297058105, 'learning_rate': 1.5372168284789644e-06, 'epoch': 2.91}
+{'train_runtime': 44059.0384, 'train_samples_per_second': 0.897, 'train_steps_per_second': 0.014, 'train_loss': 1.13098166444155, 'epoch': 3.0}
+***** train metrics *****
+  epoch                    =         3.0
+  total_flos               =   1456336GF
+  train_loss               =       1.131
+  train_runtime            = 12:14:19.03
+  train_samples_per_second =       0.897
+  train_steps_per_second   =       0.014
+Training completed with exit code: 0

@@ -1,0 +1,18 @@
+ssh svdighe@its-og-login5.syr.edu
+
+cd ~/text_style_transfer
+source ~/miniconda3/bin/activate
+conda activate style_env
+
+condor_submit train.sub
+condor_submit evaluate.sub
+condor_q -submitter $USER
+
+condor_rm <job-id>
+tail -f logs/
+
+rm -rf *
+
+python scripts/inference_demo.py --model_dir models/flan_t5_base_style_transfer --text "I am good. How are you." --styles professional casual polite social emojify --prompt_template "convert to {style}: {text}"
+
+python scripts/evaluate_model.py --model_dir models/flan_t5_base_style_transfer --test_file data/processed_data/test.jsonl --batch_size 8 --max_source_length 128 --max_target_length 128 --num_beams 4 --results_dir results

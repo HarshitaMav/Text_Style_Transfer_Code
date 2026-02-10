@@ -1,0 +1,110 @@
+000 (86734.000.000) 2025-11-26 10:47:41 Job submitted from host: <10.5.0.123:9618?addrs=10.5.0.123-9618&alias=its-og-login5.syr.edu&noUDP&sock=schedd_1770_a6b8>
+...
+040 (86734.000.000) 2025-11-26 10:48:28 Started transferring input files
+	Transferring to host: <10.5.229.191:9618?addrs=10.5.229.191-9618&alias=OG-NODE-10-5-229-191&noUDP&sock=slot1_5_1555_6358_20941>
+...
+040 (86734.000.000) 2025-11-26 10:48:28 Finished transferring input files
+...
+001 (86734.000.000) 2025-11-26 10:48:29 Job executing on host: <10.5.229.191:9618?addrs=10.5.229.191-9618&alias=OG-NODE-10-5-229-191&noUDP&sock=startd_1521_dba3>
+...
+006 (86734.000.000) 2025-11-26 10:48:37 Image size of job updated: 228340
+	223  -  MemoryUsage of job (MB)
+	228340  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 10:53:37 Image size of job updated: 15780784
+	5335  -  MemoryUsage of job (MB)
+	5462936  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 10:58:38 Image size of job updated: 15933196
+	5473  -  MemoryUsage of job (MB)
+	5603344  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:03:39 Image size of job updated: 15988552
+	5473  -  MemoryUsage of job (MB)
+	5603344  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:08:39 Image size of job updated: 15988552
+	5679  -  MemoryUsage of job (MB)
+	5814488  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:13:40 Image size of job updated: 15988552
+	5706  -  MemoryUsage of job (MB)
+	5842536  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:18:41 Image size of job updated: 15988552
+	5707  -  MemoryUsage of job (MB)
+	5843860  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:23:41 Image size of job updated: 15988552
+	5708  -  MemoryUsage of job (MB)
+	5844124  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:28:41 Image size of job updated: 16048328
+	5709  -  MemoryUsage of job (MB)
+	5845128  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:33:42 Image size of job updated: 16096524
+	5709  -  MemoryUsage of job (MB)
+	5845384  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:38:42 Image size of job updated: 16096524
+	5709  -  MemoryUsage of job (MB)
+	5845440  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:43:42 Image size of job updated: 16096524
+	5709  -  MemoryUsage of job (MB)
+	5845624  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:48:43 Image size of job updated: 16096524
+	5709  -  MemoryUsage of job (MB)
+	5845804  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:53:44 Image size of job updated: 16096524
+	5709  -  MemoryUsage of job (MB)
+	5845912  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 11:58:44 Image size of job updated: 16096524
+	5709  -  MemoryUsage of job (MB)
+	5845976  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 12:03:44 Image size of job updated: 16249620
+	5721  -  MemoryUsage of job (MB)
+	5858152  -  ResidentSetSize of job (KB)
+...
+006 (86734.000.000) 2025-11-26 12:08:45 Image size of job updated: 16249620
+	5721  -  MemoryUsage of job (MB)
+	5858188  -  ResidentSetSize of job (KB)
+...
+022 (86734.000.000) 2025-11-26 12:31:06 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot1_5@OG-NODE-10-5-229-191 <10.5.229.191:9618?addrs=10.5.229.191-9618&alias=OG-NODE-10-5-229-191&noUDP&sock=startd_1521_dba3>
+...
+023 (86734.000.000) 2025-11-26 12:31:06 Job reconnected to slot1_5@OG-NODE-10-5-229-191
+    startd address: <10.5.229.191:9618?addrs=10.5.229.191-9618&alias=OG-NODE-10-5-229-191&noUDP&sock=startd_1521_dba3>
+    starter address: <10.5.229.191:9618?addrs=10.5.229.191-9618&alias=OG-NODE-10-5-229-191&noUDP&sock=slot1_5_1555_6358_20941>
+...
+022 (86734.000.000) 2025-11-26 12:33:03 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot1_5@OG-NODE-10-5-229-191 <10.5.229.191:9618?addrs=10.5.229.191-9618&alias=OG-NODE-10-5-229-191&noUDP&sock=startd_1521_dba3>
+...
+023 (86734.000.000) 2025-11-26 12:33:03 Job reconnected to slot1_5@OG-NODE-10-5-229-191
+    startd address: <10.5.229.191:9618?addrs=10.5.229.191-9618&alias=OG-NODE-10-5-229-191&noUDP&sock=startd_1521_dba3>
+    starter address: <10.5.229.191:9618?addrs=10.5.229.191-9618&alias=OG-NODE-10-5-229-191&noUDP&sock=slot1_5_1555_6358_20941>
+...
+005 (86734.000.000) 2025-11-26 23:04:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 11:53:46, Sys 0 00:19:35  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 13:15:32, Sys 0 00:22:09  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	46531  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	46531  -  Total Bytes Sent By Job
+	4451581  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            :  4410        4410     23543 
+	   Memory (MB)          :  7325       65536     65536 
+
+	Job terminated of its own accord at 2025-11-27T04:04:15Z with exit-code 0.
+...

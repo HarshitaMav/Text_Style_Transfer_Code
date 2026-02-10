@@ -1,0 +1,62 @@
+000 (87781.000.000) 2025-11-29 22:36:31 Job submitted from host: <10.5.0.123:9618?addrs=10.5.0.123-9618&alias=its-og-login5.syr.edu&noUDP&sock=schedd_1276_ceef>
+...
+040 (87781.000.000) 2025-11-29 22:37:06 Started transferring input files
+	Transferring to host: <10.5.199.16:9618?addrs=10.5.199.16-9618&alias=OG-NODE-10-5-199-16&noUDP&sock=slot1_11_1554_aef8_17289>
+...
+040 (87781.000.000) 2025-11-29 22:37:06 Finished transferring input files
+...
+001 (87781.000.000) 2025-11-29 22:37:07 Job executing on host: <10.5.199.16:9618?addrs=10.5.199.16-9618&alias=OG-NODE-10-5-199-16&noUDP&sock=startd_1519_7c73>
+...
+006 (87781.000.000) 2025-11-29 22:37:15 Image size of job updated: 119628
+	39  -  MemoryUsage of job (MB)
+	39928  -  ResidentSetSize of job (KB)
+...
+006 (87781.000.000) 2025-11-29 22:42:15 Image size of job updated: 12011324
+	794  -  MemoryUsage of job (MB)
+	812600  -  ResidentSetSize of job (KB)
+...
+006 (87781.000.000) 2025-11-29 22:47:15 Image size of job updated: 12011324
+	861  -  MemoryUsage of job (MB)
+	880904  -  ResidentSetSize of job (KB)
+...
+006 (87781.000.000) 2025-11-29 22:52:16 Image size of job updated: 12053852
+	861  -  MemoryUsage of job (MB)
+	880904  -  ResidentSetSize of job (KB)
+...
+006 (87781.000.000) 2025-11-29 22:57:16 Image size of job updated: 12069280
+	877  -  MemoryUsage of job (MB)
+	897736  -  ResidentSetSize of job (KB)
+...
+006 (87781.000.000) 2025-11-29 23:02:16 Image size of job updated: 12070316
+	877  -  MemoryUsage of job (MB)
+	897736  -  ResidentSetSize of job (KB)
+...
+006 (87781.000.000) 2025-11-29 23:12:18 Image size of job updated: 12227152
+	877  -  MemoryUsage of job (MB)
+	897736  -  ResidentSetSize of job (KB)
+...
+006 (87781.000.000) 2025-11-29 23:22:19 Image size of job updated: 12227152
+	905  -  MemoryUsage of job (MB)
+	926204  -  ResidentSetSize of job (KB)
+...
+040 (87781.000.000) 2025-11-29 23:59:08 Started transferring output files
+...
+040 (87781.000.000) 2025-11-29 23:59:08 Finished transferring output files
+...
+005 (87781.000.000) 2025-11-29 23:59:08 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:18:45, Sys 0 00:01:33  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:18:45, Sys 0 00:01:33  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	920  -  Run Bytes Sent By Job
+	671  -  Run Bytes Received By Job
+	920  -  Total Bytes Sent By Job
+	671  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            :    20           1     23543 
+	   Memory (MB)          :   905       65536     65536 
+
+	Job terminated of its own accord at 2025-11-30T04:59:07Z with exit-code 0.
+...
