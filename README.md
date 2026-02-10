@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-orange)
 ![Model](https://img.shields.io/badge/Model-FLAN--T5--Base-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A unified controllable text rewriting system that converts a single input sentence into five stylistic variants using a single fine-tuned FLAN-T5 model.
 
